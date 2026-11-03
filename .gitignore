@@ -3,3 +3,4 @@
 *.key
 *.pem
 __pycache__/
+.coverage
